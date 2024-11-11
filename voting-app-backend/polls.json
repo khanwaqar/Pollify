@@ -1,0 +1,40 @@
+{
+  "polls": [
+    {
+      "id": "1",
+      "question": "Select your Event",
+      "options": [
+        {
+          "option": "Cricket",
+          "votes": 2
+        },
+        {
+          "option": "Football",
+          "votes": 1
+        }
+      ],
+      "voters": [
+        "203.175.72.7",
+        "51.158.252.181",
+        "2407:d000:d:c990:bf94:c879:91e3:f9e9"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Choose Activity",
+      "options": [
+        {
+          "option": "Cricket",
+          "votes": 0
+        },
+        {
+          "option": "Movie Night",
+          "votes": 1
+        }
+      ],
+      "voters": [
+        null
+      ]
+    }
+  ]
+}
